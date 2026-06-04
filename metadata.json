@@ -1,0 +1,6 @@
+{
+  "name": "Lexicon",
+  "description": "A curated collection of versioned, task-specific prompts, evaluations, and cross-model benchmarks with a live playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
